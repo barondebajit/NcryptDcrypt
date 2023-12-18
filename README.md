@@ -3,8 +3,8 @@ NcryptDcrypt is a terminal-based Python application that encrypts any given text
 
 
 ## Features
-1.Encrypts any given text using its algorithm.
-2.Decrypts the encrypted text back to its original form using the application.
+1.Encrypts any given text using its algorithm and returns a ciphertext with a unique key.
+2.Decrypts the ciphertext back to its original form using the unique key generated.
 
 
 ## Usage
